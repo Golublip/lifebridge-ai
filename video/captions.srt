@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:05,000
+Managing chronic illness in rural areas is a daily struggle.
+
+2
+00:00:05,500 --> 00:00:09,000
+Language barriers, medication schedules, and clinical distance.
+
+3
+00:00:09,500 --> 00:00:13,000
+Mean patients often navigate crisis scenarios alone.
+
+4
+00:00:13,500 --> 00:00:17,000
+Introducing LifeBridge AI: an autonomous healthcare navigator.
+
+5
+00:00:17,500 --> 00:00:20,000
+Built to advance global health equity.

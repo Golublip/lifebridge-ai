@@ -1,0 +1,3 @@
+# Cover Image Generation Prompt (1920x1080)
+
+A cinematic, photorealistic visual representation of LifeBridge AI. On one side, an elderly rural patient and a young caregiver sit in a warmly lit living room, looking at a tablet screen displaying a clean, glowing health dashboard. On the screen, glassmorphic panels show heart rates and medication checklists. Emerging from the tablet is a gentle, translucent holographic web of glowing blue and green nodes representing a helpful medical agent network. The background is a soft-focus rural home with modern clinical accent colors (cyan, emerald, dark indigo). High-tech, accessible, emotionally compelling, 8k resolution, raytracing, cinematic lighting.
